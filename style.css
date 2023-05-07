@@ -307,7 +307,8 @@ body{
 }
 
 .price h1{
-    font-size: 2.1rem;
+    margin-left: 12px;
+    font-size: 1.6rem;
     font-weight: 600;
     line-height: 1;
 }
